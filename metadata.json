@@ -1,0 +1,5 @@
+{
+  "name": "Databricks Run Manager UI",
+  "description": "A user-friendly interface to manage the upload of input files, launch Databricks runs, and download the resulting outputs.",
+  "requestFramePermissions": []
+}
